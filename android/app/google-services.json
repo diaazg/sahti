@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138339505633",
+    "project_id": "sa7ti-8f285",
+    "storage_bucket": "sa7ti-8f285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138339505633:android:a8fc04d665d6a0284d2ea0",
+        "android_client_info": {
+          "package_name": "com.example.sa7ti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138339505633-3dfu4ff2tjs62gld4f0eoehm4cuhbhvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHHt2g3qIcmciWHffkctnoDApQXCjo-bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138339505633-3dfu4ff2tjs62gld4f0eoehm4cuhbhvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
